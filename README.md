@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarun695&label=Profile%20views&color=0e75b6&style=flat" alt="tarun695" /> </p>
 
-- 🔭I am currently studying in IIIT Delhi [PDF qna bot](https://github.com/tarun695/PDFQnABot)
+- 🔭I am currently studying in IIIT Delhi 
 
 - 🌱 I’m currently learning **Node js, Mongo DB , Langchain**
 
